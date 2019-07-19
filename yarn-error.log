@@ -15,7 +15,7 @@ Platform:
 
 npm manifest: 
   {
-    "name": "gitcom",
+    "name": "Laracom",
     "version": "1.0.5",
     "description": "Git is a awesome tool for controlling version in software industry. Every time after changing codes it needs to save and record. ",
     "main": "index.html",
@@ -24,7 +24,7 @@ npm manifest:
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/arif98741/gitcom.git"
+      "url": "git+https://github.com/arif98741/Laracom.git"
     },
     "keywords": [
       "git",
@@ -36,9 +36,9 @@ npm manifest:
     "author": "Ariful Islam",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/arif98741/gitcom/issues"
+      "url": "https://github.com/arif98741/Laracom/issues"
     },
-    "homepage": "https://github.com/arif98741/gitcom#readme",
+    "homepage": "https://github.com/arif98741/Laracom#readme",
     "dependencies": {
       "bootstrap": "^4.1.1",
       "datatables.net": "^1.10.19",
