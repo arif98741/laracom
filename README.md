@@ -4,3 +4,5 @@ Laravel is a awesome framework artisan in software industry. Laracom provides yo
 to install Laracom use below command in npm(be sure that you have installed npm in your machine)
 ##<pre>npm i Laracom</pre><br>
 
+Go to artisan command list from here <a href="https://arif98741.github.io/laracom/">Laracom Datatable</a>
+
