@@ -1,7 +1,7 @@
 {
   "name": "laracom",
-  "version": "0.0.1",
-  "description": "Git is a awesome datatable tool for finding git command in software industry. Laracom provides you to get a list of commonly used commands. Every time after changing codes it needs to save and record. For this git commands are necessary must. This is a public used most common and git command data table for using easily.",
+  "version": "0.0.2_beta",
+  "description": "Laravel is a awesome framework artisan in software industry. Laracom provides you to get a list of commonly used commands for artisans. Every time after changing codes it needs to save and record. For interacting with console laravel artisan commands are necessary must. This is a public used most common and artisan command data table for using easily.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
